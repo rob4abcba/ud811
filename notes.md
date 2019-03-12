@@ -26,6 +26,24 @@ Web Page Test : https://www.webpagetest.org/
 
 https://classroom.udacity.com/courses/ud811/lessons/8086102617/concepts/80897065640923
 
+The HTML contains:
+- header
+- empty forecast card
+- dialog for adding new cities
+- loading indicator
+
+The forecast card and dialog-container are hidden by default.
+The loading indicator is visible.
+
+Also need to include the styles and any images our app needs to run.
+
+0:45 We could delay the loading of the new city dialog until after displaying 
+
+## L1.10 Start Your Project
+
+You can get the project's application code from 1-12-skeleton folder in this course's Github repository: https://www.github.com/udacity/ud811.
+
+If you don't already have a web server installed to serve your project from, the Web Server for Chrome extension can make this simple to do.
 
 
 
