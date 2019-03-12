@@ -16,3 +16,7 @@ Web App Manifest
 - 1:25
 - Gives you ability to control appearance
 
+L1.6 Why use an App Shell
+
+Web Page Test : https://www.webpagetest.org/
+
