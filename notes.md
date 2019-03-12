@@ -1,7 +1,7 @@
 
 Key Chapters/Sections from Intro to Progressive Web Apps Udacity Course
 
-L1.4 Technologies behind Progressive Web Apps:
+## L1.4 Technologies behind Progressive Web Apps:
 
 https://classroom.udacity.com/courses/ud811/lessons/8086102617/concepts/80897065570923
 
@@ -16,7 +16,9 @@ Web App Manifest
 - 1:25
 - Gives you ability to control appearance
 
-L1.6 Why use an App Shell
+## L1.6 Why use an App Shell
+
+https://classroom.udacity.com/courses/ud811/lessons/8086102617/concepts/80897065590923
 
 Web Page Test : https://www.webpagetest.org/
 
