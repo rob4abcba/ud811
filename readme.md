@@ -5,7 +5,7 @@ These are the course materials for UD811.
 
 ## Firebase Weather API
 
-Unfortunately the Firebase Open Data Set APIs have recently been shut
+Unfortunately, the Firebase Open Data Set APIs have recently been shut
 down. They still return data from March 31st, but are no longer updating.
 
 For live data, with lots more cities, try [Forecast.io](http://forecast.io/).
