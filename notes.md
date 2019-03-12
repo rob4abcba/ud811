@@ -8,11 +8,11 @@ https://classroom.udacity.com/courses/ud811/lessons/8086102617/concepts/80897065
 Service Workers
 - Act as a client-side proxy written in JavaScript
 - Can cache assets locally, so no matter what kind of network connection you have, apps load near instantly
--- 1:10 Don't even rely on app being open in a browser.
--- 1:20 Give PWA's the power to live beyond browsers.
+- 1:10 Don't even rely on app being open in a browser.
+- 1:20 Give PWA's the power to live beyond browsers.
 
 
 Web App Manifest
---1:25
---Gives you ability to control appearance
+- 1:25
+- Gives you ability to control appearance
 
