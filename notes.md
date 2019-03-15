@@ -32,10 +32,10 @@ The HTML contains:
 - dialog for adding new cities
 - loading indicator
 
-The forecast card and dialog-container are hidden by default.
+0:18 The forecast card and dialog-container are hidden by default.
 The loading indicator is visible.
 
-Also need to include the styles and any images our app needs to run.
+0:30 Also need to include the styles and any images our app needs to run.
 
 0:45 We could delay the loading of the new city dialog until after displaying 
 
