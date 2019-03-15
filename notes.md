@@ -41,9 +41,13 @@ The loading indicator is visible.
 
 ## L1.10 Start Your Project
 
+https://classroom.udacity.com/courses/ud811/lessons/8086102617/concepts/80897065650923
+
 You can get the project's application code from 1-12-skeleton folder in this course's Github repository: https://www.github.com/udacity/ud811.
 
 If you don't already have a web server installed to serve your project from, the Web Server for Chrome extension can make this simple to do.
 
+0:20 Since Service workers do not work when served from the file system, make sure you working from a local web server in your dev environment.
 
+0:30 Service workers must be served over HTTPS (secure), but to make development easier, that requirement is waived when served from local host.  
 
