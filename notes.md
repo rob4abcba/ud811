@@ -51,3 +51,14 @@ If you don't already have a web server installed to serve your project from, the
 
 0:30 Service workers must be served over HTTPS (secure), but to make development easier, that requirement is waived when served from local host.  
 
+
+## L1.11 Quiz: Update Your Project
+
+https://classroom.udacity.com/courses/ud811/lessons/8086102617/concepts/80897065660923
+
+You can get the project's application code from 1-12-skeleton folder in this course's Github repository: https://www.github.com/udacity/ud811.
+
+0:03 In index.html, add a link to hook up stylesheet to 
+0:10 Use WebServer for Chrome, Python Simple, or Apache to serve files
+
+
