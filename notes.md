@@ -58,7 +58,15 @@ https://classroom.udacity.com/courses/ud811/lessons/8086102617/concepts/80897065
 
 You can get the project's application code from 1-12-skeleton folder in this course's Github repository: https://www.github.com/udacity/ud811.
 
-0:03 In index.html, add a link to hook up stylesheet to 
+0:03 In index.html, 
+add a link to hook up stylesheet 
+
+  <!-- Insert link to stylesheet here -->
+  <link rel="stylesheet" type="text/css" href="/styles/ud811.css">
+  
+  <!-- Insert link to app.js here -->
+  <script src="/scripts/app.js"></script>
+  
 0:10 Use WebServer for Chrome, Python Simple, or Apache to serve files
 
 
