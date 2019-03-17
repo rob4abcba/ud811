@@ -58,7 +58,24 @@ https://classroom.udacity.com/courses/ud811/lessons/8086102617/concepts/80897065
 
 You can get the project's application code from 1-12-skeleton folder in this course's Github repository: https://www.github.com/udacity/ud811.
 
-0:03 In index.html, add a link to hook up stylesheet to 
+0:03 In index.html, 
+add a link to hook up stylesheet 
+
+  <!-- Insert link to stylesheet here -->
+  <link rel="stylesheet" type="text/css" href="/styles/ud811.css">
+  
+  <!-- Insert link to app.js here -->
+  <script src="/scripts/app.js"></script>
+  
 0:10 Use WebServer for Chrome, Python Simple, or Apache to serve files
 
+## L1.14. Server-side rendering vs. 
+1.14 Server-Side Rendering: Fastest but the problem is the data is already embedded in the user interface.
+
+## L1.15. AJAX request vs. 
+AJAX solves that problem by keeping the data separate, but this takes extra HTTP requests and thus is very slow:
+...(cannot be) fired until after the app's JavaScript has been downloaded and run:
+
+## L1.16. Injecting Data into JavaScript
+Instead of pre-rendering the data into the markup, the server injects the data into the app's JavaScript.
 
