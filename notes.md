@@ -69,4 +69,6 @@ add a link to hook up stylesheet
   
 0:10 Use WebServer for Chrome, Python Simple, or Apache to serve files
 
+## Lesson1    14. Server-side rendering vs. 15. AJAX request vs. 16. Injecting Data into JavaScript
+
 
