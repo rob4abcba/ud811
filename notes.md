@@ -70,7 +70,12 @@ add a link to hook up stylesheet
 0:10 Use WebServer for Chrome, Python Simple, or Apache to serve files
 
 ## L1.14. Server-side rendering vs. 
-## L1.15. AJAX request vs. 
-## L1.16. Injecting Data into JavaScript
+1.14 Server-Side Rendering: Fastest but the problem is the data is already embedded in the user interface.
 
+## L1.15. AJAX request vs. 
+AJAX solves that problem by keeping the data separate, but this takes extra HTTP requests and thus is very slow:
+...(cannot be) fired until after the app's JavaScript has been downloaded and run:
+
+## L1.16. Injecting Data into JavaScript
+Instead of pre-rendering the data into the markup, the server injects the data into the app's JavaScript.
 
