@@ -2,7 +2,7 @@
 (function() {
   'use strict';
 
-  // RL Start Add injected dummy forecast data to display the 1st time user opens this app
+  // RL L1.18a Start Add injected dummy forecast data to display the 1st time user opens this app
   var injectedForecast = {
     key: 'cupertino',
     label: 'Cupertino, CA',
@@ -29,7 +29,7 @@
       ]
     }
   };
-  // RL End 
+  // RL L1.18a End 
 
   var weatherAPIUrlBase = 'https://publicdata-weather.firebaseio.com/';
 
@@ -179,9 +179,9 @@
     });
   };
 
-  // RL Start
+  // RL L1.18b Start
   app.updateForecastCard(injectedForecast);
-  // RL End
+  // RL L1.18b End
 
 })();
 
